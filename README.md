@@ -31,8 +31,6 @@ venv\Scripts\activate
 source venv/bin/activate
  ```
 ## Run your Flask app:
-Use the following flask run command (replace "app.py" with your app's filename):
-
  ``` bash
  python app.py runserver 
  ```
