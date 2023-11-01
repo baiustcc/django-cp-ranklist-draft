@@ -9,7 +9,7 @@ It was initially developed in Django Flask to retrieve data from the CodeForces 
 ## Lead Developer
 - [Tawsif Rahman Shopnil](https://www.github.com/tawsif-rahman-shopnil)
 
-## Setting Up and Running a Flask App
+## Setting Up and Running this Flask App
 
 Follow these steps to set up and run a Flask app:
 
